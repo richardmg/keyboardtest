@@ -6,6 +6,8 @@ TEMPLATE = app
 TARGET = QmlApp
 QT += qml quick
 
+#QMAKE_INFO_PLIST = Info.plist
+
 # Input
 SOURCES += main.cpp
 RESOURCES += main.qrc
