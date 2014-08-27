@@ -37,7 +37,7 @@ ApplicationWindow {
             contentHeight: parent.height * 3
 
             Column {
-                y: 800
+                y: 300
                 width: parent.width
                 height: parent.height
                 TextEdit {
